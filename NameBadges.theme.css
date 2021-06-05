@@ -1,0 +1,50 @@
+/**
+    * @name Name Badges
+    * @version 1.3.0
+    * @description Some nice custom badges for next to usernames.
+    * @author KeyLimeMaster#7095
+    *
+    * @website https://github.com/Discord-Theme-Addons
+    * @source https://github.com/Discord-Theme-Addons/name-badges/tree/main/src
+**/
+@import url('https://discordassets.github.io/discordstyle/users.css');
+#app-mount .wrapper-2a6GCs h2 .username-1A8OIy::after,
+#app-mount .listRow-hutiT_ .avatar-3W3CeO + div .username-2b1r56::after,
+#app-mount .nameTag-m8r81H:not(.listName-3w10cx) .username-2b1r56::after {
+    padding: 0 10px 0 10px;
+    margin-right: 4px;
+}
+#app-mount .channel-2QD9_O .overflow-WK9Ogt::after,
+#app-mount .member-3-YXUe .roleColor-rz2vM0::after {
+    padding: 0 8px 0 8px;
+    margin-right: 4px;
+}
+#app-mount .wrapper-3t9DeA + h1::after {
+    padding: 0 15px 0 15px;
+    margin-right: 3px;
+    margin-left: 1px;
+}
+#app-mount .listRow-hutiT_ .wrapper-3t9DeA + div .username-2b1r56::after {
+    padding: 0 8px 0 8px;
+    margin-right: 4px;
+}
+#app-mount .wrapper-2a6GCs h2 .username-1A8OIy::before,
+#app-mount .listRow-hutiT_ .avatar-3W3CeO + div .username-2b1r56::before,
+#app-mount .nameTag-m8r81H:not(.listName-3w10cx) .username-2b1r56::before {
+    padding: 0 10px 0 10px;
+    margin-right: 4px;
+}
+#app-mount .channel-2QD9_O .overflow-WK9Ogt::before,
+#app-mount .member-3-YXUe .roleColor-rz2vM0::before {
+    padding: 0 8px 0 8px;
+    margin-right: 4px;
+}
+#app-mount .wrapper-3t9DeA + h1::before {
+    padding: 0 15px 0 15px;
+    margin-right: 3px;
+    margin-left: 1px;
+}
+#app-mount .listRow-hutiT_ .wrapper-3t9DeA + div .username-2b1r56::before {
+    padding: 0 8px 0 8px;
+    margin-right: 4px;
+}
