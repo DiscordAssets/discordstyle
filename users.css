@@ -1,0 +1,8 @@
+[data-user-id="380150912813105152"] .username-1A8OIy::after,
+[data-user-id="380150912813105152"] .nameTag-m8r81H:not(.listName-3w10cx) .username-2b1r56::after,
+[data-user-id="380150912813105152"] .roleColor-rz2vM0::after,
+[data-user-id="380150912813105152"] .overflow-WK9Ogt::after {
+    content: "";
+    background: url("https://cdn.discordapp.com/attachments/824449816645468180/850741089026441216/verified_dev.png") center/100% no-repeat;
+	
+	}
