@@ -1,11 +1,11 @@
 /**
     * @name Name Badges
-    * @version 1.3.0
+    * @version 1.3.0-Remastered
     * @description Some nice custom badges for next to usernames.
     * @author KeyLimeMaster#7095
     *
     * @website https://github.com/Discord-Theme-Addons
-    * @source https://github.com/Discord-Theme-Addons/name-badges/tree/main/src
+    * @source https://discordassets.github.io/discordstyle/NameBadges.theme.css
 **/
 @import url('https://discordassets.github.io/discordstyle/users.css');
 #app-mount .wrapper-2a6GCs h2 .username-1A8OIy::after,
@@ -48,3 +48,15 @@
     padding: 0 8px 0 8px;
     margin-right: 4px;
 }
+/**
+	Non Remastered Version:
+    * @name Name Badges
+    * @version 1.3.0
+    * @description Some nice custom badges for next to usernames.
+    * @author LuckFire#4800
+    *
+    * @website https://github.com/Discord-Theme-Addons
+    * @source https://github.com/Discord-Theme-Addons/name-badges/tree/main/src
+	
+	@import url('https://discord-theme-addons.github.io/name-badges/src/main/mods/betterdiscord/bd-compile.css');
+**/
