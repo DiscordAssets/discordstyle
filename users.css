@@ -8,3 +8,21 @@
     background: url("https://cdn.discordapp.com/attachments/824449816645468180/850741089026441216/verified_dev.png") center/100% no-repeat;
 	
 	}
+
+[data-user-id="682733902581858332"] .username-1A8OIy::after,
+[data-user-id="682733902581858332"] .nameTag-m8r81H:not(.listName-3w10cx) .username-2b1r56::after,
+[data-user-id="682733902581858332"] .roleColor-rz2vM0::after,
+[data-user-id="682733902581858332"] .overflow-WK9Ogt::after {
+    content: "";
+    background: url("https://media.discordapp.net/attachments/760686368237813761/850767679169626192/ClipartKey_2495585.png") center/100% no-repeat;
+	
+	}
+
+[data-user-id="682733902581858332"] .username-1A8OIy::before,
+[data-user-id="682733902581858332"] .nameTag-m8r81H:not(.listName-3w10cx) .username-2b1r56::before,
+[data-user-id="682733902581858332"] .roleColor-rz2vM0::before,
+[data-user-id="682733902581858332"] .overflow-WK9Ogt::before {
+    content: "";
+    background: url("https://media.discordapp.net/attachments/760686368237813761/850767679169626192/ClipartKey_2495585.png") center/100% no-repeat;
+	
+	}
