@@ -19,6 +19,14 @@
     margin-right: 4px;
 }
 
+[data-user-id="380150912813105152"] .username-1A8OIy::before,
+[data-user-id="380150912813105152"] .nameTag-m8r81H:not(.listName-3w10cx) .username-2b1r56::before,
+[data-user-id="380150912813105152"] .roleColor-rz2vM0::before,
+[data-user-id="380150912813105152"] .overflow-WK9Ogt::before {
+    content: "";
+    background: url("https://i.imgur.com/3k77hqg.png") center/100% no-repeat;
+}
+
 [data-user-id="399416615742996480"] .username-1A8OIy::before,
 [data-user-id="399416615742996480"] .nameTag-m8r81H:not(.listName-3w10cx) .username-2b1r56::before,
 [data-user-id="399416615742996480"] .roleColor-rz2vM0::before,
